@@ -1,0 +1,6 @@
+{
+  "name": "Examply",
+  "description": "A premium 1900s vintage-aesthetic storefront for West African past exam prep packs (WAEC, JAMB, NECO) and offline electromechanical AI tutoring engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
